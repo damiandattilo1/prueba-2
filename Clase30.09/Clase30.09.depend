@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1601474299 source:c:\users\roberto\desktop\clase30.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1601911493 source:c:\users\roberto\desktop\ejercitacion\clase30.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"deporte.h"
+
+1601912104 c:\users\roberto\desktop\ejercitacion\clase30.09\persona.h
+	"fecha.h"
+	"deporte.h"
+
+1601899438 c:\users\roberto\desktop\ejercitacion\clase30.09\fecha.h
+
+1601911315 c:\users\roberto\desktop\ejercitacion\clase30.09\datastore.h
+	"fecha.h"
+	"deporte.h"
+
+1601912083 source:c:\users\roberto\desktop\ejercitacion\clase30.09\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"persona.h"
+	"datastore.h"
+	"deporte.h"
+
+1601911744 c:\users\roberto\desktop\ejercitacion\clase30.09\deporte.h
+
+1601911900 source:c:\users\roberto\desktop\ejercitacion\clase30.09\deporte.c
+	<stdio.h>
+	<string.h>
+	"deporte.h"
+
+1601911900 source:c:\users\usuario\desktop\abm padre\clase30.09\deporte.c
+	<stdio.h>
+	<string.h>
+	"deporte.h"
+
+1601911744 c:\users\usuario\desktop\abm padre\clase30.09\deporte.h
+
+1601912133 source:c:\users\usuario\desktop\abm padre\clase30.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"deporte.h"
+
+1601912104 c:\users\usuario\desktop\abm padre\clase30.09\persona.h
+	"fecha.h"
+	"deporte.h"
+
+1601899438 c:\users\usuario\desktop\abm padre\clase30.09\fecha.h
+
+1601912083 source:c:\users\usuario\desktop\abm padre\clase30.09\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"persona.h"
+	"datastore.h"
+	"deporte.h"
+
+1601911315 c:\users\usuario\desktop\abm padre\clase30.09\datastore.h
+	"fecha.h"
+	"deporte.h"
+
+1601911900 source:c:\users\damia\downloads\abm padre\abm padre\clase30.09\deporte.c
+	<stdio.h>
+	<string.h>
+	"deporte.h"
+
+1601911744 c:\users\damia\downloads\abm padre\abm padre\clase30.09\deporte.h
+
+1601912133 source:c:\users\damia\downloads\abm padre\abm padre\clase30.09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"persona.h"
+	"deporte.h"
+
+1601912104 c:\users\damia\downloads\abm padre\abm padre\clase30.09\persona.h
+	"fecha.h"
+	"deporte.h"
+
+1601899438 c:\users\damia\downloads\abm padre\abm padre\clase30.09\fecha.h
+
+1601912083 source:c:\users\damia\downloads\abm padre\abm padre\clase30.09\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"persona.h"
+	"datastore.h"
+	"deporte.h"
+
+1601911315 c:\users\damia\downloads\abm padre\abm padre\clase30.09\datastore.h
+	"fecha.h"
+	"deporte.h"
+
